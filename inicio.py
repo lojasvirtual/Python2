@@ -3,7 +3,7 @@ lista = ['Geovane','Amanda']
 nome = input("Digite o seu nome: ")
 data = datetime.now()
 data = data.strftime("%d/%m/%y")
-idade = input("Digite a idade: ")
+idade = input("Digite a sua idade: ")
 numero = round(11.65444,1)
 def soma(a,b):
     return int(a)*int(b)
